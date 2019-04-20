@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.4471lab1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\yahya\\Documents\\4471Lab1\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "4471Lab1 [Testing]"
+        }
+      }
+    }
+  ]
+}
